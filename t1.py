@@ -1,6 +1,6 @@
 from turtle import *
 speed('fast')
-pencolor('blue')
+pencolor('red')
 
 #hexagon
 for i in range(6):

@@ -2,7 +2,7 @@ from turtle import *
 speed('fastest')
 import turtle as tur
 tur.title("Pythontpoint")
-tur.write("Happy Valentine Day",align="right",font=("Times New Roman",
+tur.write("Valentine Day",align="right",font=("Times New Roman",
                                     25, "bold"))
 tur.penup ()
 tur.left (90)
